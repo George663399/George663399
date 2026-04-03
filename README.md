@@ -1,35 +1,87 @@
-- 👋 Hi, I’m @George663399
-- 👀 I’m interested in Artificial Intelligence and chip design.
-- 🌱 I’m currently working supervised ML algorithms. [Gaussian SVM, KNN, Regression, Classification]
-- 💞️ I’m looking to find in which areas complex numbers intertwine with machine learning in order to increase accuracy in models.
-- 📫 How to reach me georgeh00@proton.me or LLgeorgehadddadLL@gmail.com
-- ⚡ Fun fact: I enjoy art, sport, coordination, and high dexterity skills.
+# George Haddad
 
-AI:  
-My kaggle profile for my first solo AI project: 
--
-https://www.kaggle.com/georgemaximushaddad  
-  
-An artificially intelligent classification/regression stock market analyzer model.  
-The model implements in depth statistical analysis and linear algebra concepts like HMC(Hidden Markov Chains) and Time-Inhomogeneous Markov Chains.  
-It is _session behaviour_ based rather than _stock value_ based, so it predicts general movement direction rather than predicting a fixed value.  
-The aim of the model is to predict whether the following session is tending towards an uptrend or a downtrend.  
-Probabilities are deduced from the asset chart itself, so that any stock or crypto asset can be directly studied by the model.  
+Machine Learning–focused Computer Science student with experience in time-series analysis, statistical modeling, and computer vision. I build data-driven systems with an emphasis on model reliability, feature engineering, and real-world applicability.
 
-Note:
--
-This project is on hold and currently missing metrics analysis due to university my projects and my part-time job.  
-The aim of this project is to develop my personal experience, in a real-world and professional scenario for usable AI models.  
-Expected completion date for this project: June-July 2026  
+---
 
-Chips and Computer Architecture:
--
-Logisim:  
-1- Designed a ternary counter system using a binary counter.
+## Technical Focus
 
-2- Designed a 4-bit calculator that has the following operations:
--  Add/Subtract 2 numbers A and B
--  Multiply B by 5
--  Square the value of B using binary logic
--  Calculate two's compliment of B
+* **Machine Learning:** Regression, Classification, Time-Series Forecasting
+* **Frameworks & Libraries:** Scikit-learn, TensorFlow, NumPy, Pandas
+* **Computer Vision:** OpenCV, HuggingFace Transformers (TrOCR)
+* **Core Skills:** Feature Engineering, Model Evaluation, Statistical Analysis
+* **Tools:** Git, Kaggle, Google Colab
+
+---
+
+## Featured Project
+
+### Stock Market Analyzer (In Progress)
+
+A machine learning system designed to predict short-term market direction (uptrend/downtrend) using probabilistic and statistical modeling.
+
+**Key Components:**
+
+* Hybrid modeling approach incorporating Markov Chains
+* Time-series preprocessing:
+
+  * Log transformation
+  * Differencing (handling non-stationarity)
+* Feature engineering using technical indicators:
+
+  * Moving Averages
+  * Stochastic RSI
+  * Fibonacci levels
+
+**Modeling Approach:**
+
+* Focuses on **session behavior** rather than exact price prediction
+* Uses probability distributions derived from asset data
+* Emphasizes model interpretability and stability
+
+**Current Work:**
+
+* Expanding evaluation metrics and backtesting framework
+* Improving feature selection and robustness
+
+---
+
+## Additional Projects
+
+### OCR – Handwritten Text Recognition
+
+* Implemented an OCR pipeline using **TrOCR (Transformer-based model)**
+* Processed handwritten images into structured text
+* Utilized HuggingFace ecosystem for model integration
+
+---
+
+### Hardware & Computer Architecture (Logisim)
+
+* Designed a **ternary counter system** using binary logic
+* Built a **4-bit calculator** supporting:
+
+  * Addition and subtraction
+  * Binary transformations (two’s complement)
+  * Arithmetic operations implemented at gate level
+
 <img width="1062" height="872" alt="Logisim Calculator Project" src="https://github.com/user-attachments/assets/4e7cb9f3-2748-4b9c-b9ba-d5f17f77a098" />
+
+---
+
+## Interests
+
+* Applied Machine Learning
+* Time-Series Modeling
+* Statistical Learning
+* Computer Architecture and Low-Level Systems
+
+---
+
+## Contact
+
+* Email: [georgeh00@proton.me](mailto:georgeh00@proton.me)
+* Kaggle: https://www.kaggle.com/georgemaximushaddad
+* GitHub: https://github.com/George663399
+
+---
