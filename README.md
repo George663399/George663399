@@ -2,13 +2,14 @@
 - 👀 I’m interested in Artificial Intelligence and chip design.
 - 🌱 I’m currently working supervised ML algorithms. [Gaussian SVM, KNN, Regression, Classification]
 - 💞️ I’m looking to find in which areas complex numbers intertwine with machine learning in order to increase accuracy in models.
-- 📫 How to reach me georgeh00@proton.com or LLgeorgehadddadLL@gmail.com
-- ⚡ Fun fact: I enjoy art, sport, coordination, and dexterity skills.
+- 📫 How to reach me georgeh00@proton.me or LLgeorgehadddadLL@gmail.com
+- ⚡ Fun fact: I enjoy art, sport, coordination, and high dexterity skills.
 
 AI:  
 My kaggle profile for my first solo AI project: 
 -
 https://www.kaggle.com/georgemaximushaddad  
+  
 An artificially intelligent classification/regression stock market analyzer model.  
 The model implements in depth statistical analysis and linear algebra concepts like HMC(Hidden Markov Chains) and Time-Inhomogeneous Markov Chains.  
 It is _session behaviour_ based rather than _stock value_ based, so it predicts general movement direction rather than predicting a fixed value.  
