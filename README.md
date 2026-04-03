@@ -1,4 +1,5 @@
-# George Haddad
+![Status](https://img.shields.io/badge/Status-Active%20Learning-green)
+# George Maximus Haddad
 
 Machine Learning–focused Computer Science student with experience in time-series analysis, statistical modeling, and computer vision. I build data-driven systems with an emphasis on model reliability, feature engineering, and real-world applicability.
 
@@ -44,6 +45,13 @@ A machine learning system designed to predict short-term market direction (uptre
 * Expanding evaluation metrics and backtesting framework
 * Improving feature selection and robustness
 
+**TODO:**
+
+* Implement ML algorithms:
+  - KNN
+  - Gaussian SVM
+* Evaluate Model accuracy 
+
 ---
 
 ## Additional Projects
@@ -65,7 +73,7 @@ A machine learning system designed to predict short-term market direction (uptre
   * Binary transformations (two’s complement)
   * Arithmetic operations implemented at gate level
 
-<img width="1062" height="872" alt="Logisim Calculator Project" src="https://github.com/user-attachments/assets/4e7cb9f3-2748-4b9c-b9ba-d5f17f77a098" />
+![Logisim Calculator Project](https://github.com/user-attachments/assets/4e7cb9f3-2748-4b9c-b9ba-d5f17f77a098)
 
 ---
 
